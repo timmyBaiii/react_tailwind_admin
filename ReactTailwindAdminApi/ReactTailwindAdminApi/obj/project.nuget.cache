@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B7bo/d7B8j7PSc+JxL8OJyBj+aIw/FKnGMhn/WI6BtDZXLrPGxTRFTU2UyXE8OZa+WaRSYYMYGmXglHEDDUwCQ==",
+  "dgSpecHash": "ZnCEK2dcZUEzhDP0wbYFMi0TVhVN+wz96ZCY8z9FM15VxqILxlp0tIhaq8tSoCWLQL01wEj5kaPFX9fvDxMvbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\whitehat\\Desktop\\ReactTailwindAdminApi\\ReactTailwindAdminApi\\ReactTailwindAdminApi.csproj",
+  "projectFilePath": "C:\\Users\\whitehat\\Desktop\\react_tailwind_admin\\ReactTailwindAdminApi\\ReactTailwindAdminApi\\ReactTailwindAdminApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\whitehat\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\whitehat\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",

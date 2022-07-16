@@ -1055,11 +1055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\whitehat\\Desktop\\ReactTailwindAdminApi\\ReactTailwindAdminApi\\ReactTailwindAdminApi.csproj",
+      "projectUniqueName": "C:\\Users\\whitehat\\Desktop\\react_tailwind_admin\\ReactTailwindAdminApi\\ReactTailwindAdminApi\\ReactTailwindAdminApi.csproj",
       "projectName": "ReactTailwindAdminApi",
-      "projectPath": "C:\\Users\\whitehat\\Desktop\\ReactTailwindAdminApi\\ReactTailwindAdminApi\\ReactTailwindAdminApi.csproj",
+      "projectPath": "C:\\Users\\whitehat\\Desktop\\react_tailwind_admin\\ReactTailwindAdminApi\\ReactTailwindAdminApi\\ReactTailwindAdminApi.csproj",
       "packagesPath": "C:\\Users\\whitehat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\whitehat\\Desktop\\ReactTailwindAdminApi\\ReactTailwindAdminApi\\obj\\",
+      "outputPath": "C:\\Users\\whitehat\\Desktop\\react_tailwind_admin\\ReactTailwindAdminApi\\ReactTailwindAdminApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
